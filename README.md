@@ -21,5 +21,7 @@ Hey I'm Chemlord, also go by Devthechemist, and I'm a Biochemistry and Molecular
 ### 📱 Socials
 
 **Linkedin: https://www.linkedin.com/in/devbagchi/**
+
 **Website: https://chemlord.github.io/devthechemist/**
+
 **Youtube: https://www.youtube.com/channel/UCTVmOmzMtWA7k5lcWv2DrkQ**
