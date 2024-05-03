@@ -18,10 +18,18 @@ Hey I'm Chemlord, also go by Devthechemist, and I'm a Biochemistry and Molecular
 
 ---
 
+### ⭐ Current Projects
+
+**Personal Website > Devthechemist > Using Hugo**
+
+**Organic Chemistry Tutorials > Youtube**
+
+---
+
 ### 📱 Socials
 
-**Linkedin: https://www.linkedin.com/in/devbagchi/**
-
 **Website: https://chemlord.github.io/devthechemist/**
+
+**Linkedin: https://www.linkedin.com/in/devbagchi/**
 
 **Youtube: https://www.youtube.com/channel/UCTVmOmzMtWA7k5lcWv2DrkQ**
