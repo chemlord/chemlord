@@ -4,6 +4,9 @@
 
 Hey I'm Chemlord, also go by Devthechemist, and I'm a Biochemistry and Molecular Bio student at Trent University with a passion in Organic Chemistry. I started this Github as a means to take up web development and design as a hobby. I've taken the time to learn Go, HTML and XMS in a means to create my own personal projects, namely websites, to advertise myself and and my personal moments in academia as a Biochemist (an up and coming one). I hope you will all join me as I learn more and expand more on my projects 
 
+[website]: https://chemlord.github.io/devthechemist/
+[youtube]: https://www.youtube.com/channel/UCTVmOmzMtWA7k5lcWv2DrkQ
+
 ---
 
 ### 🧰 Languages and Tools
@@ -16,11 +19,3 @@ Hey I'm Chemlord, also go by Devthechemist, and I'm a Biochemistry and Molecular
 
 <br />
 
-#
-<!--
-<details>
- <summary><h3>👨‍💻 Dev's Coding Journey</h3></summary>
-   I started my coding journey as a...
--->
-[website]: https://chemlord.github.io/devthechemist/
-[youtube]: https://www.youtube.com/channel/UCTVmOmzMtWA7k5lcWv2DrkQ
