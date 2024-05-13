@@ -32,6 +32,6 @@ Hey I'm Chemlord, also go by Devthechemist, and I'm a Biochemistry and Molecular
   <a href="https://www.linkedin.com/in/devbagchi/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
     
-**Website: https://chemlord.github.io/devthechemist/**
+**Website: https://chemlord.github.io/devthechemistt/**
 
 **Youtube: https://www.youtube.com/channel/UCTVmOmzMtWA7k5lcWv2DrkQ**
