@@ -1,10 +1,21 @@
 [![Header](header3.gif "Header")](https://chemlord.github.io/devthechemistt/)
 
-# 👨‍🔬 Chemlord - Devthechemist
+<a href="https://discord.com/users/255388221943447552">
+  <img align="right" alt="Braydon's Discord" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/discord.svg" />
+</a>
+<a href="https://www.linkedin.com/in/braydonwang/">
+  <img align="right" alt="Braydon's LinkedIn" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/linkedin.svg" />
+</a>
+<a href="mailto: b392wang@uwaterloo.ca">
+  <img align="right" alt="Braydon's Email" width="32px" src="https://raw.githubusercontent.com/chemlord/chemlord/main/x.svg" />
+</a>
+
+👨‍🔬 Hi, I’m Devraj Bagchi!
+===============	
 
 **`Biochemist (Chemist/Biologist/Academic/Developer)`**
 
-Hey I'm Chemlord, also go by Devthechemist, and I'm a Biochemistry and Molecular Bio student at Trent University with a passion in Organic Chemistry. I started this Github as a means to take up web development and design as a hobby. I've developed skills in front-end web development and UI design, learning languages such as: HTML, XMS, XML, Go, Javascript, Java, Python, CSS, Tailwind, Bootstrap, Etc., which I enjoy applying to create and manage my own academic portfolio and other projects to advertise myself and and my personal moments in academia as a Biochemist (an up and coming one). I hope you will all join me as I learn more and expand more on my projects.
+I'm a **Biochemistry & Molecular Biology** student at **Trent University**. I'm seeking **Winter 2024 TA Positions**, feel free to reach out on LinkedIn or send me an email! (devrajbagchi@trentu.ca)
 
 ---
 
