@@ -1,13 +1,13 @@
 [![Header](header3.gif "Header")](https://chemlord.github.io/devthechemistt/)
 
-<a href="https://discord.com/users/255388221943447552">
-  <img align="right" alt="Braydon's Discord" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/discord.svg" />
+<a href="https://discord.com/users/sauceboss4684">
+  <img align="right" alt="Devraj's discord" width="32px" src="https://raw.githubusercontent.com/chemlord/chemlord/main/disc.svg" />
 </a>
-<a href="https://www.linkedin.com/in/braydonwang/">
-  <img align="right" alt="Braydon's LinkedIn" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/linkedin.svg" />
+<a href="https://www.linkedin.com/in/devbagchi/">
+  <img align="right" alt="Devraj's LinkedIn" width="32px" src="https://raw.githubusercontent.com/chemlord/chemlord/main/linkedin.svg" />
 </a>
-<a href="mailto: b392wang@uwaterloo.ca">
-  <img align="right" alt="Braydon's Email" width="32px" src="https://raw.githubusercontent.com/chemlord/chemlord/main/x.svg" />
+<a href="mailto: devrajbagchi@trentu.ca">
+  <img align="right" alt="Devraj's Email" width="32px" src="https://raw.githubusercontent.com/chemlord/chemlord/main/email.svg" />
 </a>
 
 👨‍🔬 Hi, I’m Devraj Bagchi!
@@ -16,6 +16,28 @@
 **`Biochemist (Chemist/Biologist/Academic/Developer)`**
 
 I'm a **Biochemistry & Molecular Biology** student at **Trent University**. I'm seeking **Winter 2024 TA Positions**, feel free to reach out on LinkedIn or send me an email! (devrajbagchi@trentu.ca)
+
+I'm super passionate about using science, technology, problem solving, and creativity to create applications that has a positive impact. Currently, I'm really interested in Carbonyl chemistry and programming.
+- 👔 Currently seeking employment @<ins>Trent University</ins>, as a TA in the Winter 2024 Semester.
+- 🛠 Building a massive chemistry reaction database for social good @<ins>Reaction Repo</ins>, a personal project of mine, for the betterment for those studying advanced organic chemistry.
+
+---
+
+### ⭐ Current Projects
+
+I'm passionate about creating projects that merge the best of science and technology. I aim to share my knowledge and make it accessible to all. 
+
+<details>
+  <summary><b> &nbsp;Take a look at some of my personal projects 👀</b> </summary>
+
+  <br />
+  <p>
+    <a href="https://chemlord.github.io/reactionrepo">
+      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=chemlord&repo=reactionrepo&theme=default_repocard"/>
+    </a>
+    </a>
+  </p>
+</details>
 
 ---
 
@@ -35,20 +57,9 @@ I'm a **Biochemistry & Molecular Biology** student at **Trent University**. I'm 
 
 ---
 
-### ⭐ Current Projects
+### 📊 Github Stats
 
-- **Personal Website → Using Hugo**
+<a href="https://github.com/chemlord/chemlord">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=chemlord&langs_count=8&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact&hide=jupyter%20notebook,cmake,html,css,makefile,shell,procfile" />
+</a>
 
-- **Organic Chemistry Database → https://chemlord.github.io/chemdatabase/**
-
----
-
-### 📱 Socials
-
-<p>
-  <a href="https://www.linkedin.com/in/devbagchi/" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
-    
-**Website: https://chemlord.github.io/devthechemistt/**
-
-**Youtube: https://www.youtube.com/channel/UCTVmOmzMtWA7k5lcWv2DrkQ**
