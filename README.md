@@ -3,8 +3,14 @@
 <a href="https://discord.com/users/sauceboss4684">
   <img align="right" alt="Devraj's discord" width="32px" src="https://raw.githubusercontent.com/chemlord/chemlord/main/disc.svg" />
 </a>
+<a href="https://x.com/devthechemist">
+  <img align="right" alt="Devraj's X" width="32px" src="https://raw.githubusercontent.com/chemlord/chemlord/main/xtwitter.svg" />
+</a>
+<a href="https://www.instagram.com/devraj.bagchi/">
+  <img align="right" alt="Devraj's Instagram" width="32px" src="https://raw.githubusercontent.com/chemlord/chemlord/main/ig2.svg" />
+</a>
 <a href="https://www.linkedin.com/in/devbagchi/">
-  <img align="right" alt="Devraj's LinkedIn" width="32px" src="https://raw.githubusercontent.com/chemlord/chemlord/main/linkedin.svg" />
+  <img align="right" alt="Devraj's LinkedIn" width="32px" src="https://raw.githubusercontent.com/chemlord/chemlord/main/linked.svg" />
 </a>
 <a href="mailto: devrajbagchi@trentu.ca">
   <img align="right" alt="Devraj's Email" width="32px" src="https://raw.githubusercontent.com/chemlord/chemlord/main/email.svg" />
