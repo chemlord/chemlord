@@ -20,7 +20,7 @@
 I'm a **Biochemistry & Molecular Biology** student at **Trent University**. I'm seeking **Winter 2024 TA Positions**, feel free to reach out on LinkedIn or send me an email! (devrajbagchi@trentu.ca)
 
 I'm super passionate about using science, technology, problem solving, and creativity to create applications that has a positive impact. Currently, I'm really interested in Carbonyl chemistry and programming.
-- 👔 Currently seeking employment @<ins>Trent University</ins>, as a TA in the Winter 2024 Semester.
+- 👔 Currently seeking employment @<ins>Trent University</ins>, as a TA for the Winter 2024 Semester.
 - 🛠  Building a [**chemistry reaction database**](https://chemlord.github.io/reactionrepo) for social good, a personal project of mine, for the betterment of those studying advanced organic chemistry.
 
 [![](https://visitcount.itsvg.in/api?id=chemlord&icon=0&color=1)](https://visitcount.itsvg.in)
