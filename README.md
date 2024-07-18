@@ -13,7 +13,7 @@
   <img align="right" alt="Devraj's Email" width="32px" src="https://raw.githubusercontent.com/chemlord/chemlord/main/email.svg" />
 </a>
 
-## 👨‍🔬 Hi, I’m Devraj Bagchi!
+## 👨‍🔬 Hi, I’m Devraj Bagchi! 
 
 **`Biochemist (Chemist/Biologist/Academic/Developer)`**
 
@@ -21,8 +21,9 @@ I'm a **Biochemistry & Molecular Biology** student at **Trent University**. I'm 
 
 I'm super passionate about using science, technology, problem solving, and creativity to create applications that has a positive impact. Currently, I'm really interested in Carbonyl chemistry and programming.
 - 👔 Currently seeking employment @<ins>Trent University</ins>, as a TA in the Winter 2024 Semester.
-- 🛠 Building a massive chemistry reaction database for social good @<ins>Reaction Repo</ins>, a personal project of mine, for the betterment for those studying advanced organic chemistry.
+- 🛠  Building a [**chemistry reaction database**](https://chemlord.github.io/reactionrepo) for social good, a personal project of mine, for the betterment of those studying advanced organic chemistry.
 
+[![](https://visitcount.itsvg.in/api?id=chemlord&icon=0&color=1)](https://visitcount.itsvg.in)
 ---
 
 ### ⭐ Current Projects
@@ -59,9 +60,8 @@ I'm passionate about creating projects that merge the best of science and techno
 
 ---
 
-### 📊 Github Stats
+### 📊 Github Stats 
 
-<a href="https://github.com/chemlord/chemlord">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=chemlord&langs_count=8&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact&hide=jupyter%20notebook,cmake,html,css,makefile,shell,procfile" />
-</a>
-
+![](https://github-readme-stats.vercel.app/api?username=chemlord&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=chemlord&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=chemlord&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
