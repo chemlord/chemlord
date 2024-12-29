@@ -22,7 +22,6 @@ I'm a **Biochemistry & Molecular Biology** student at **Trent University**. I've
 I'm super passionate about using science, technology, problem solving, and creativity to create applications that has a positive impact. Currently, I'm really interested in Carbonyl chemistry and programming.
 - 👔 Currently looking forward to employment at @<ins>Trent University</ins>, as a AA for the Winter 2024 Semester.
 - 🛠  Building a [**chemistry reaction database**](https://reactionrepo.mintlify.app/introduction) for social good, a personal project of mine, for the betterment of those studying advanced organic chemistry.
-
 [![](https://visitcount.itsvg.in/api?id=chemlord&icon=0&color=1)](https://visitcount.itsvg.in)
 ---
 
