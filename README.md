@@ -17,11 +17,11 @@
 
 **`Biochemist (Chemist/Biologist/Academic/Developer)`**
 
-I'm a **Biochemistry & Molecular Biology** student at **Trent University**. I'm seeking **Winter 2024 TA Positions**, feel free to reach out on LinkedIn or send me an email! (devrajbagchi@trentu.ca)
+I'm a **Biochemistry & Molecular Biology** student at **Trent University**. I've officially accepted a position to be an AA for the Winter Semester in CHEM 3110.
 
 I'm super passionate about using science, technology, problem solving, and creativity to create applications that has a positive impact. Currently, I'm really interested in Carbonyl chemistry and programming.
-- 👔 Currently seeking employment @<ins>Trent University</ins>, as a TA for the Winter 2024 Semester.
-- 🛠  Building a [**chemistry reaction database**](https://chemlord.github.io/reactionrepo) for social good, a personal project of mine, for the betterment of those studying advanced organic chemistry.
+- 👔 Currently looking forward to employment at @<ins>Trent University</ins>, as a AA for the Winter 2024 Semester.
+- 🛠  Building a [**chemistry reaction database**](https://reactionrepo.mintlify.app/introduction) for social good, a personal project of mine, for the betterment of those studying advanced organic chemistry.
 
 [![](https://visitcount.itsvg.in/api?id=chemlord&icon=0&color=1)](https://visitcount.itsvg.in)
 ---
@@ -59,9 +59,3 @@ I'm passionate about creating projects that merge the best of science and techno
 <br />
 
 ---
-
-### 📊 Github Stats 
-
-![](https://github-readme-stats.vercel.app/api?username=chemlord&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=chemlord&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chemlord&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
